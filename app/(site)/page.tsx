@@ -20,6 +20,9 @@ export default function Home() {
             Newest Songs
           </h1>
         </div>
+        <div>
+          Lists of Songs!
+        </div>
       </div>
     </div>
   )
